@@ -45,6 +45,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-   
- 
+    <name>gestion_stock</name>
 </project>

@@ -8,14 +8,17 @@ view\MainFrame$6.class
 view\MainFrame$9.class
 view\DashboardPanel.class
 view\MainFrame$2.class
+view\MainFrame$13.class
 view\CommandeForm.class
 service\FournisseurService.class
 view\SignUpForm.class
 model\Produit.class
 view\MainFrame$10.class
 view\MainFrame$5.class
+view\SignUpForm$9.class
 view\LoginForm$2.class
 view\MainFrame$11.class
+model\Utilisateur.class
 connexion\MyConnexion.class
 view\SignUpForm$2.class
 service\ProduitService.class
@@ -24,6 +27,7 @@ view\LoginForm$5.class
 view\MainFrame$8.class
 view\SignUpForm$6.class
 service\CommandeService.class
+view\MainFrame$14.class
 dao\IDao.class
 model\Stock.class
 model\Categorie.class
@@ -41,6 +45,7 @@ service\ClientService.class
 view\SignUpForm$5.class
 view\LoginForm$3.class
 view\LoginForm$6.class
+view\SignUpForm$8.class
 view\MainFrame$7.class
 view\LoginForm$4.class
 view\MainFrame.class
